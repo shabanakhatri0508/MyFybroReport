@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFybroReport</string>
+    <string name="txt_start_date">Start Date</string>
+    <string name="txt_end_date">End Date</string>
+    <string name="txt_select_duration">Select Duration</string>
+    <string-array name="duration">
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Quarterly</item>
+    </string-array>
+</resources>
